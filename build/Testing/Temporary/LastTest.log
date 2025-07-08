@@ -1,0 +1,29 @@
+Start testing: Jun 14 13:42 MSK
+----------------------------------------------------------
+1/1 Testing: AllTests
+1/1 Test: AllTests
+Command: "/Users/sergei/Desktop/code/final/search_engine/build/tests"
+Directory: /Users/sergei/Desktop/code/final/search_engine/build
+"AllTests" start time: Jun 14 13:42 MSK
+Output:
+----------------------------------------------------------
+Running main() from /Users/sergei/Desktop/code/final/search_engine/build/_deps/googletest-src/googletest/src/gtest_main.cc
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from sample_test_case
+[ RUN      ] sample_test_case.sample_test
+[       OK ] sample_test_case.sample_test (0 ms)
+[----------] 1 test from sample_test_case (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"AllTests" end time: Jun 14 13:42 MSK
+"AllTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 14 13:42 MSK

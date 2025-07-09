@@ -46,6 +46,23 @@
                 }
             ],
             "result": "true"
+        },
+        "request004": {
+            "relevance": [
+                {
+                    "docid": 0,
+                    "rank": 1.0
+                },
+                {
+                    "docid": 1,
+                    "rank": 1.0
+                },
+                {
+                    "docid": 2,
+                    "rank": 1.0
+                }
+            ],
+            "result": "true"
         }
     }
 }

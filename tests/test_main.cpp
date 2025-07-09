@@ -78,7 +78,7 @@ TEST(TestCaseInvertedIndex, TestInvertedIndexMissingWord) {
 
 
 
-//================TestCaseSearchServer==================//
+//================TestSearchServer==================//
 
 TEST(TestCaseSearchServer, TestSimple) {
     const vector<string> docs = {

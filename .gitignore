@@ -1,23 +1,16 @@
-# Build and cmake
+# CLion
+.idea/
+*.iml
+
+# CMake
 cmake-build-*/
 CMakeFiles/
 CMakeCache.txt
 Makefile
-compile_commands.json
-CTestTestfile.cmake
 *.cmake
 *.o
 *.obj
-*.so
-*.a
 *.out
 
-# CLion project files
-.idea/
-*.iml
-
-# macOS system files
+# macOS
 .DS_Store
-
-# Logs
-*.log
